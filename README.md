@@ -1,5 +1,5 @@
 # Marketing_funnel_analysis
-This project analyzes marketing campaign data using Python (pandas, matplotlib, seaborn, plotly) and MySQL to uncover customer behavior and optimize sales funnels. Key insights are visualized interactively and summarized in a final presentation.
+
 📊 Sales Conversion & Marketing Funnel Analysis
 This project performs Exploratory Data Analysis (EDA) and Statistical Testing on a marketing dataset to uncover customer behavior patterns, conversion rates, and campaign effectiveness. Visualizations and insights are derived using Python libraries such as Pandas, NumPy, Seaborn, Matplotlib, Plotly, and SciPy. Additionally, MySQL Workbench was used for database queries, and results were presented via PowerPoint.
 
